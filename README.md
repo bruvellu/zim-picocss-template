@@ -1,6 +1,6 @@
 # PicoCSS template for Zim Desktop Wiki
 
-Template for exporting Zim Desktop Wiki files to HTML. It’s based on [PicoCSS](https://picocss.com), a minimal framework for semantic HTML.
+Template for exporting [Zim Desktop Wiki](https://zim-wiki.org) files to HTML. It’s based on [PicoCSS](https://picocss.com), a minimal framework for semantic HTML.
 
 ## Install
 
